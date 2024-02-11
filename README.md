@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EJHpFqylbqnCSgRrJxMm1_K94NfYwSOv/view?usp=drive_link](https://drive.google.com/file/d/1EJHpFqylbqnCSgRrJxMm1_K94NfYwSOv/view?usp=drive_link)
 
-<img align = "right" alt = "coding" width = "400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
+<img align = "right" alt = "coding" width = "400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
