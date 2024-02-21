@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mainak Mukherjee</h1>
 <h3 align="center">A passionate Data Science aspirant from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mainakcris7&label=Profile%20views&color=0e75b6&style=flat" alt="mainakcris7" /> </p>
 
 - 🌱 I’m currently learning **AWS Cloud Services**
 
