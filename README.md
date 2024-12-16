@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Data Science aspirant from India</h3>
 
 
-- 🌱 I’m currently a **Associate Software Engineer (Intern)** at **Recruit CRM**
+- 🌱 I’m currently an **Associate Software Engineer (Intern)** at **Recruit CRM**
 
 - 📫 Visit my portfolio website **https://codymainakmukherjee.netlify.app/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EJHpFqylbqnCSgRrJxMm1_K94NfYwSOv/view?usp=drive_link](https://drive.google.com/file/d/1EJHpFqylbqnCSgRrJxMm1_K94NfYwSOv/view?usp=drive_link)
+- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1s5muDV1AezSk-PE0i7GKlRVAYWp8QAmk/view?usp=drive_link)
 
 <img align = "right" alt = "coding" width = "400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
