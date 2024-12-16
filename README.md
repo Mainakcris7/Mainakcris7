@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Science aspirant from India</h3>
 
 
-- 🌱 I’m currently learning **AWS Cloud Services**
+- 🌱 I’m currently a **Associate Software Engineer (Intern)** at **Recruit CRM**
 
 - 📫 Visit my portfolio website **https://codymainakmukherjee.netlify.app/**
 
