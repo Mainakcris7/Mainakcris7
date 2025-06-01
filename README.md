@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mainak Mukherjee</h1>
-<h3 align="center">A passionate Data Science aspirant from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 
-- 🌱 I’m currently an **Associate Software Engineer (Intern)** at **Recruit CRM**
+- 🌱 I’m currently an **Programmer Analyst Trainee** at **Cognizant**
 
 - 📫 Visit my portfolio website **https://codymainakmukherjee.netlify.app/**
 
