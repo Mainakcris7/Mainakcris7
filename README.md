@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 
-- 🌱 I’m currently an **Programmer Analyst Trainee** at **Cognizant**
+- 🌱 I’m currently a **Programmer Analyst Trainee** at **Cognizant**
 
 - 📫 Visit my portfolio website **https://codymainakmukherjee.netlify.app/**
 
