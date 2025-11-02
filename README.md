@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 
-- 🌱 I’m currently a **Programmer Analyst Trainee** at **Cognizant**
+- 🌱 I’m currently a **Software Engineer Trainee** at **Cognizant**
 
 - 📫 Visit my portfolio website **https://codymainakmukherjee.netlify.app/**
 
-- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1s5muDV1AezSk-PE0i7GKlRVAYWp8QAmk/view?usp=drive_link)
+- 📄 Know about my experiences in my [resume]([https://drive.google.com/file/d/1s5muDV1AezSk-PE0i7GKlRVAYWp8QAmk/view?usp=drive_link](https://drive.google.com/file/d/1mHFvFiE_syY-JDS-I13xuTcU4t2vBe-W/view?usp=drive_link))
 
 <img align = "right" alt = "coding" width = "400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
